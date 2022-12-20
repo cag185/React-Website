@@ -16,11 +16,11 @@ export default function Navbar() {
 
   return (
       <header>
+      <img src={Logo1} className = "Logo1" alt="Coffee"/>
           <nav ref={navRef}>
-            <img src={Logo1} className = "Logo1" alt="Coffee"/>
             <a href="#About">About</a>
             <a href="#EPortfolio">E-Portfolio</a>
-            <a href= "#CourseWork">Course Work</a>
+            <a href="#CourseWork">Course Work</a>
             <a href="#Resume">Resume</a>
             <a href="#Contact">Contact</a>
               <button className ="nav-btn nav-close-btn" onClick={showNavBar}>
