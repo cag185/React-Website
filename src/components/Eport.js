@@ -16,19 +16,19 @@ export default function Eport() {
           <h2>Command Line Wordle Solver</h2>
           <img className="E-Img" src={WordlePic} alt="project 1"></img>
           <p>A short description about the project that can be expanded</p>
-          <button>Learn More</button>
+          <button className="Submit-Button">Learn More</button>
         </div>
         <div className="Col2">
           <h2>A-Star Algorithm Maze Searcher</h2>
           <img className="E-Img" src={MazePic} alt="project 1"></img>
           <p>A short description about the project that can be expanded</p>
-          <button>Learn More</button>
+          <button className="Submit-Button">Learn More</button>
         </div>
         <div className="Col3">
           <h2>Accelerated FPGA Image Convolution</h2>
           <img className="E-Img" src={ConvAfter} alt="project 1"></img>
           <p>A short description about the project that can be expanded</p>
-          <button>Learn More</button>
+          <button className="Submit-Button">Learn More</button>
         </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ export default function CourseWork() {
             </div>
             <div className="class-bio">
               <p> Some info about the class</p>
-              <button>expand</button>
+              <button className="Submit-Button">expand</button>
             </div>
           </div>
           <div className="Class-bio-pair">
@@ -27,7 +27,7 @@ export default function CourseWork() {
             </div>
             <div className="class-bio">
               <p> Some info about the class</p>
-              <button>expand</button>
+              <button className="Submit-Button">expand</button>
             </div>
           </div>
           <div className="Class-bio-pair">
@@ -36,7 +36,7 @@ export default function CourseWork() {
             </div>
             <div className="class-bio">
               <p> Some info about the class</p>
-              <button>expand</button>
+              <button className="Submit-Button">expand</button>
             </div>
           </div>
           <div className="Class-bio-pair">
@@ -45,7 +45,7 @@ export default function CourseWork() {
             </div>
             <div className="class-bio">
               <p> Some info about the class</p>
-              <button>expand</button>
+              <button className="Submit-Button">expand</button>
             </div>
           </div>
         </div>

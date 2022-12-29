@@ -97,7 +97,7 @@ html {
 }
 
 .Contact {
-    color: var(--primaryColorLight)
+    color: var(--primaryColorLight);
 }
 
 .Name {
@@ -244,4 +244,20 @@ header .Logo1 {
 }
 .Text-Field{
     color: var(--textColorWhite);
+}
+
+.Submit-Button {
+    margin-top: 2%;
+    /* margin-left: 45%; */
+    width: 30vh;
+    height: 5vh;
+    color: black;
+    background-color: var(--secondaryColorLight);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: var(--fontStyle);
+    font-weight: bold;
+    flex-wrap: wrap;
+    border-radius: 10px;
 }
