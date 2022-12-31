@@ -182,7 +182,9 @@ export default function Eport() {
               first.
             </p>
           </div>
-          <a href="https://github.com/cag185">Github Link</a>
+          <a href="https://github.com/cag185/ECE0302_Projects/tree/main/ECE0302_Projects-main/projects/project4">
+            Github Link
+          </a>
           <button className="Submit-Button" onClick={expandProj2}>
             Done
           </button>
@@ -229,7 +231,7 @@ export default function Eport() {
               and the developing enviornment was really satisfying.
             </p>
           </div>
-          <a href="https://github.com/cag185">Github Link</a>
+          <a href="https://github.com/cag185/HW_IMG_CONV">Github Link</a>
           <button className="Submit-Button" onClick={expandProj3}>
             Done
           </button>

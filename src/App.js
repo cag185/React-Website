@@ -16,8 +16,6 @@ import "./main.css";
 //       <Section id="Resume" />
 //       <Section id="Contact" />
 
-// COMMENTED OUT NAVBAR
-
 function App() {
   return (
     <div>

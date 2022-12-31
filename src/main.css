@@ -23,6 +23,10 @@
 
 
 }
+.MuiInputBase-root{
+    color: var(--textColorWhite);
+    font: var(--fontStyle);
+}
 
 header {
     display: flex;
@@ -217,7 +221,28 @@ p {
     text-align: justify;
 }
 
+.Text-Field {
+    background: var(--textColorWhite);
+    color: #000;
+    font: var(--fontStyle);
+    width: 100vh;
+    display: flex;
+    font: var(--fontStyle);
+    font-weight: bold;
+    text-align: center;
+}
 
+.Text-Field-Message {
+    background: var(--textColorWhite);
+    color: #000;
+    font: var(--fontStyle);
+    width: 100vh;
+    display: flex;
+    font: var(--fontStyle);
+    font-weight: bold;
+    text-align: center;
+    height: 30vh;
+}
 header .Logo1 {
     display: flex;
     justify-self: center;
@@ -316,10 +341,9 @@ header .Logo1 {
     margin-left: 5%;
     margin-right: 20%;
     flex-direction: row;
+    align-items: baseline;
 }
-.Text-Field{
-    color: var(--textColorWhite);
-}
+
 
 .Submit-Button {
     margin-top: 2%;
