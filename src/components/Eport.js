@@ -45,7 +45,12 @@ export default function Eport() {
         <div className="Gallery">
           <div className="Col1">
             <h2>Command Line Wordle Solver</h2>
-            <img className="E-Img" src={WordlePic} alt="project 1"></img>
+            <img
+              className="E-Img"
+              onClick={expandProj1}
+              src={WordlePic}
+              alt="project 1"
+            ></img>
             <p>
               This command line program helps the user to solve the NYTimes
               Wordle puzzle.
@@ -56,7 +61,12 @@ export default function Eport() {
           </div>
           <div className="Col2">
             <h2>A-Star Algorithm Maze Searcher</h2>
-            <img className="E-Img" src={MazePic} alt="project 1"></img>
+            <img
+              className="E-Img"
+              onClick={expandProj2}
+              src={MazePic}
+              alt="project 2"
+            ></img>
             <p>
               This C++ program uses the A-Star algorithm to find the nearest
               exit of the maze that is input as an image.
@@ -67,7 +77,12 @@ export default function Eport() {
           </div>
           <div className="Col3">
             <h2>Accelerated FPGA Image Convolution</h2>
-            <img className="E-Img" src={ConvAfter} alt="project 1"></img>
+            <img
+              className="E-Img"
+              onClick={expandProj3}
+              src={ConvAfter}
+              alt="project 3"
+            ></img>
             <p>
               This FPGA project uses a hardware implementation solution to image
               convolution, which can be seen in the image.

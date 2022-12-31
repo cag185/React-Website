@@ -5,7 +5,7 @@ export default function About(props) {
   // const nameRef = useRef();
   return (
     <div id="About" className="InfoSection IntroSection">
-      <h1>
+      <h1 className="Hi">
         Hi, I'm {}
         <span className="Name">Caleb Gibson!</span>{" "}
       </h1>
