@@ -247,10 +247,10 @@ header .Logo1 {
 .Class-bio-pair {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    margin-left: 20%;
-    margin-right: 20%;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .timeline h2 {
@@ -259,13 +259,14 @@ header .Logo1 {
 
 .class-name h3 {
     color: var(--secondaryColor);
+    width: 35vh;
+    justify-content: left;
 }
 
 .class-bio {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: justify;
 }
 
 .E-Img {
