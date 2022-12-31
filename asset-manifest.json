@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.9c9aefe0.chunk.css",
-    "main.js": "/React-Website/static/js/main.6021388b.chunk.js",
-    "main.js.map": "/React-Website/static/js/main.6021388b.chunk.js.map",
+    "main.css": "/React-Website/static/css/main.754ea44d.chunk.css",
+    "main.js": "/React-Website/static/js/main.12bb3b34.chunk.js",
+    "main.js.map": "/React-Website/static/js/main.12bb3b34.chunk.js.map",
     "runtime-main.js": "/React-Website/static/js/runtime-main.f8228b0f.js",
     "runtime-main.js.map": "/React-Website/static/js/runtime-main.f8228b0f.js.map",
     "static/js/2.203526b1.chunk.js": "/React-Website/static/js/2.203526b1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.1ef2e441.chunk.js": "/React-Website/static/js/3.1ef2e441.chunk.js",
     "static/js/3.1ef2e441.chunk.js.map": "/React-Website/static/js/3.1ef2e441.chunk.js.map",
     "index.html": "/React-Website/index.html",
-    "static/css/main.9c9aefe0.chunk.css.map": "/React-Website/static/css/main.9c9aefe0.chunk.css.map",
+    "static/css/main.754ea44d.chunk.css.map": "/React-Website/static/css/main.754ea44d.chunk.css.map",
     "static/js/2.203526b1.chunk.js.LICENSE.txt": "/React-Website/static/js/2.203526b1.chunk.js.LICENSE.txt",
     "static/media/Coffee.49ead9d5.png": "/React-Website/static/media/Coffee.49ead9d5.png",
     "static/media/PaintedMountains.bfad3d8a.webp": "/React-Website/static/media/PaintedMountains.bfad3d8a.webp",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8228b0f.js",
     "static/js/2.203526b1.chunk.js",
-    "static/css/main.9c9aefe0.chunk.css",
-    "static/js/main.6021388b.chunk.js"
+    "static/css/main.754ea44d.chunk.css",
+    "static/js/main.12bb3b34.chunk.js"
   ]
 }
