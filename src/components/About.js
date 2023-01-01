@@ -1,5 +1,6 @@
 import React from "react";
 import { useRef } from "react";
+import Banner from "../images/PaintedMountains.webp";
 
 export default function About(props) {
   // const nameRef = useRef();
