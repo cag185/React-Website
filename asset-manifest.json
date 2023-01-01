@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.4314b064.chunk.css",
+    "main.css": "/React-Website/static/css/main.46ff4e13.chunk.css",
     "main.js": "/React-Website/static/js/main.9ecd4c93.chunk.js",
     "main.js.map": "/React-Website/static/js/main.9ecd4c93.chunk.js.map",
     "runtime-main.js": "/React-Website/static/js/runtime-main.f8228b0f.js",
@@ -10,7 +10,7 @@
     "static/js/3.1ef2e441.chunk.js": "/React-Website/static/js/3.1ef2e441.chunk.js",
     "static/js/3.1ef2e441.chunk.js.map": "/React-Website/static/js/3.1ef2e441.chunk.js.map",
     "index.html": "/React-Website/index.html",
-    "static/css/main.4314b064.chunk.css.map": "/React-Website/static/css/main.4314b064.chunk.css.map",
+    "static/css/main.46ff4e13.chunk.css.map": "/React-Website/static/css/main.46ff4e13.chunk.css.map",
     "static/js/2.203526b1.chunk.js.LICENSE.txt": "/React-Website/static/js/2.203526b1.chunk.js.LICENSE.txt",
     "static/media/Caleb_Gibson_Resume_Spring_2023.c3a767e8.pdf": "/React-Website/static/media/Caleb_Gibson_Resume_Spring_2023.c3a767e8.pdf",
     "static/media/Coffee.49ead9d5.png": "/React-Website/static/media/Coffee.49ead9d5.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.f8228b0f.js",
     "static/js/2.203526b1.chunk.js",
-    "static/css/main.4314b064.chunk.css",
+    "static/css/main.46ff4e13.chunk.css",
     "static/js/main.9ecd4c93.chunk.js"
   ]
 }
