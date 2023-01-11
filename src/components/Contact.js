@@ -11,19 +11,20 @@ export default function Contact() {
   const [Message, setMessage] = useState("");
   const [error, setError] = useState(null);
 
-  const onSubmitClick = () => {
-    //verify the name, message, and email all have values
-    if (MessengerName !== "" && Message !== "" && Email !== "") {
-      // construct the message to send
-      const email_message = `From ${MessengerName}
-                            Email: ${Email}
-                            Message: ${Message}`;
-      // test is
-      console.log(email_message);
-      // call the other function
-      sendEmail(email_message);
-    }
-  };
+  // Attempt to make my own email service before finding React's emailjs
+  // const onSubmitClick = () => {
+  //   //verify the name, message, and email all have values
+  //   if (MessengerName !== "" && Message !== "" && Email !== "") {
+  //     // construct the message to send
+  //     const email_message = `From ${MessengerName}
+  //                           Email: ${Email}
+  //                           Message: ${Message}`;
+  //     // test is
+  //     console.log(email_message);
+  //     // call the other function
+  //     sendEmail(email_message);
+  //   }
+  // };
 
   function sendEmail(e) {
     emailjs

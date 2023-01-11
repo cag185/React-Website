@@ -27,13 +27,59 @@
     color: var(--textColorWhite);
     font: var(--fontStyle);
 }
+/* Section for avatar picture  */
+
+.Avatar-div {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Avatar-img{
+    width: 25vh;
+    height: 25vh;
+    border-radius: 50%;
+    margin: auto;
+}
+.Outer-ring {
+    width: 28.5vh;
+    height: 28.5vh;
+    background-color: var(--primaryColorLight);
+    border-radius: 50%;
+    transition: .35s;
+    transform: (.5);
+    /* translate: (0px); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.Outer-ring:hover{
+    transition: .4s;
+    transform : scale(1.5);
+}
+
+.Inner-ring {
+    width: 26.5vh;
+    height:26.5vh;
+    background-color: var(--textColorWhite);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
 
 header {
     display: flex;
     align-items: center;
     justify-content: right;
     height: 40px;
-    /* padding: 0 0px; */
+    padding: 2%;
     background-color: var(--textColorBlack);
     color: var(--textColor);
 }
@@ -70,6 +116,10 @@ header .nav-btn {
     visibility: hidden;
     opacity: 0;
     font-size: 1.8rem;
+}
+
+.navbar{
+    margin-top: 2%;
 }
 
 body {
