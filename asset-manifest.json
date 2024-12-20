@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.306ca6ff.chunk.css",
-    "main.js": "/React-Website/static/js/main.c92fafa6.chunk.js",
-    "main.js.map": "/React-Website/static/js/main.c92fafa6.chunk.js.map",
-    "runtime-main.js": "/React-Website/static/js/runtime-main.f8228b0f.js",
-    "runtime-main.js.map": "/React-Website/static/js/runtime-main.f8228b0f.js.map",
-    "static/js/2.203526b1.chunk.js": "/React-Website/static/js/2.203526b1.chunk.js",
-    "static/js/2.203526b1.chunk.js.map": "/React-Website/static/js/2.203526b1.chunk.js.map",
-    "static/js/3.1ef2e441.chunk.js": "/React-Website/static/js/3.1ef2e441.chunk.js",
-    "static/js/3.1ef2e441.chunk.js.map": "/React-Website/static/js/3.1ef2e441.chunk.js.map",
+    "main.css": "/React-Website/static/css/main.5e7100bb.chunk.css",
+    "main.js": "/React-Website/static/js/main.839e351f.chunk.js",
+    "main.js.map": "/React-Website/static/js/main.839e351f.chunk.js.map",
+    "runtime-main.js": "/React-Website/static/js/runtime-main.e9d854c3.js",
+    "runtime-main.js.map": "/React-Website/static/js/runtime-main.e9d854c3.js.map",
+    "static/js/2.921e7e93.chunk.js": "/React-Website/static/js/2.921e7e93.chunk.js",
+    "static/js/2.921e7e93.chunk.js.map": "/React-Website/static/js/2.921e7e93.chunk.js.map",
+    "static/js/3.7ace58cd.chunk.js": "/React-Website/static/js/3.7ace58cd.chunk.js",
+    "static/js/3.7ace58cd.chunk.js.map": "/React-Website/static/js/3.7ace58cd.chunk.js.map",
     "index.html": "/React-Website/index.html",
-    "static/css/main.306ca6ff.chunk.css.map": "/React-Website/static/css/main.306ca6ff.chunk.css.map",
-    "static/js/2.203526b1.chunk.js.LICENSE.txt": "/React-Website/static/js/2.203526b1.chunk.js.LICENSE.txt",
-    "static/media/Caleb_Gibson_Resume_Spring_2023.c3a767e8.pdf": "/React-Website/static/media/Caleb_Gibson_Resume_Spring_2023.c3a767e8.pdf",
-    "static/media/Coffee.49ead9d5.png": "/React-Website/static/media/Coffee.49ead9d5.png",
+    "static/css/main.5e7100bb.chunk.css.map": "/React-Website/static/css/main.5e7100bb.chunk.css.map",
+    "static/js/2.921e7e93.chunk.js.LICENSE.txt": "/React-Website/static/js/2.921e7e93.chunk.js.LICENSE.txt",
+    "static/media/Caleb_Gibson_Resume_Fall_2024.d5d289ac.pdf": "/React-Website/static/media/Caleb_Gibson_Resume_Fall_2024.d5d289ac.pdf",
     "static/media/Me_3.37888289.jpg": "/React-Website/static/media/Me_3.37888289.jpg",
-    "static/media/PaintedMountains.bfad3d8a.webp": "/React-Website/static/media/PaintedMountains.bfad3d8a.webp",
     "static/media/Rock Image.b4c49e4a.png": "/React-Website/static/media/Rock Image.b4c49e4a.png",
     "static/media/Worlde-Start.5f53a31a.png": "/React-Website/static/media/Worlde-Start.5f53a31a.png",
     "static/media/output_accel.75eaa0f1.jpg": "/React-Website/static/media/output_accel.75eaa0f1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8228b0f.js",
-    "static/js/2.203526b1.chunk.js",
-    "static/css/main.306ca6ff.chunk.css",
-    "static/js/main.c92fafa6.chunk.js"
+    "static/js/runtime-main.e9d854c3.js",
+    "static/js/2.921e7e93.chunk.js",
+    "static/css/main.5e7100bb.chunk.css",
+    "static/js/main.839e351f.chunk.js"
   ]
 }
