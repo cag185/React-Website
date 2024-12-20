@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Divider } from "@material-ui/core";
 export default function CourseWork() {
   //expand buttons for the courswork section
   const [expand1, setExpand1] = useState(false);

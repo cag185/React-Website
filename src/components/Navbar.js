@@ -1,8 +1,6 @@
 import { useRef } from "react";
-import { FaBars, FaTimes } from "react-icons/fa";
 import "../main.css";
-import Logo1 from "../images/Coffee.png";
-import Resume from "../Files/Caleb_Gibson_Resume_Spring_2023.pdf";
+import Resume from "../Files/Caleb_Gibson_Resume_Fall_2024.pdf";
 
 export default function Navbar() {
   const navRef = useRef();
